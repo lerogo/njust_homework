@@ -68,5 +68,5 @@
 非常欢迎同学你的加入！ :smiley: 
 
 - 提交 [GitHub issues](http://github.com/lerogo/njust_homework/issues) 报告错误或者询问问题
-- 提出 [Pull Request](http://github.com/lerogo/njust_homework/pulls) 完善
+- 提出 [Pull Request](http://github.com/lerogo/njust_homework/pulls) 帮助完善代码
 
