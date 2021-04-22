@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lerogo/njust_homework">
-    <img alt="antd-admin" height="64" src="./docs/_media/logo.ico">
+    <img alt="作业汇总-智科-NJUST" height="64" src="./docs/_media/logo.ico">
   </a>
 </p>
 <h1 align="center">作业汇总-智科-NJUST</h1>
