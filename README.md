@@ -34,7 +34,7 @@
 | 课程名                    | 作业名                              | 描述                                        |
 | ------------------------ | ---------------------------------- | ------------------------------------------ |
 | <b>软件课程设计（Ⅰ）</b>    | [skynet人脸处理系统](https://lab.lerogo.com/skynet/)   | 一个对视频人脸、图片库人脸进行处理跟踪的系统 |
-| <b>人机交互</b>            | 乐学学导微信小程序<img alt="乐学学导微信小程序" height="128" src="./docs/_media/wxxcx_logo.jpg"> | 当初交的作业是这个 |
+| <b>人机交互</b>            | 乐学学导微信小程序<img alt="乐学学导微信小程序" height="90" src="./docs/_media/wxxcx_logo.jpg"> | 当初交的作业是这个 |
 | <b>算法分析课程设计</b>     | [图片套索工具](https://github.com/lerogo/shareCode/tree/master/njust_homework/livewire)                         | 图片套索工具 就是把图片需要的圈出来 辅助人套索 python |
 | <b>人工智能与智能机器人</b>  | [主要是RRT](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA)                           | RRT寻路算法 带了一个GUI 然后发现 老师根本不会看你的代码 呜呜😭 python|
 | <b>计算机组成原理</b>       | [四个实验](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E8%AE%A1%E7%BB%84)                            | 关于CPU的实验 寄存器、储存器等 老师给部分代码 自己改改 |
