@@ -46,7 +46,7 @@
 | <b>算法设计与分析</b>    | [倒油等](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1)   | 有一个排序然后有一个倒油（本来有一个数据处理但是涉及了同学学号姓名就没放上来 需要再联系我 C++|
 | <b>数据结构</b>    | [树、图](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)   | 练习的作业 什么图、树、线性表 C++|
 | <b>智能导论</b>    | [字符串匹配、随机算法](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA)   | 字符串匹配 随机算法啥的 似乎还有个算卦 C++|
-| <b>计算机网络</b>    | [TCP UDP](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)   | 就是模拟客户机/服务器通信 没有认真做... C++|
+| <b>计算机网络</b>    | [TCP UDP](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)   | 就是模拟客户机/服务器通信 没有认真做... 以及作业答案、自己做的仅供参考 C++|
 | <b>模电</b>    | [小灯](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E6%A8%A1%E7%94%B5)   | 一个小灯的代码和仿真 |
 | <b>数电</b>    | [四个实验](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E6%95%B0%E7%94%B5)   | 老师给了部分代码 自己改改就好 |
 
