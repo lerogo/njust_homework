@@ -53,7 +53,7 @@
 ## 大二上 ##
 | 课程名                    | 作业名                              | 描述                                        |
 | ------------------------ | ---------------------------------- | ------------------------------------------ |
-| <b>C++课程设计</b>        | [QT图像处理](https://github.com/lerogo/qtimage)   | 用QT实现了图像的处理，简单的编辑、变换、模糊、滤波、锐化、运算等 C++|
+| <b>C++课程设计</b>        | [QT图像处理](https://github.com/lerogo/qtimage)｜[课程作业和报告](https://github.com/lerogo/shareCode/tree/master/njust_homework/C++%E8%AF%BE%E8%AE%BE) | 用QT实现了图像的处理，简单的编辑、变换、模糊、滤波、锐化、运算等 C++|
 | <b>面向对象编程技术</b>     | [章节作业和上机](https://github.com/lerogo/shareCode/tree/master/njust_homework/java) | 各个章节作业和上机实验作业 JAVA|
 
 ## 大一下 ##
