@@ -29,7 +29,7 @@
 | ------------------------ | ---------------------------------- | ------------------------------------------ |
 | <b>软件课程设计（Ⅱ）</b>      | [编译原理](https://github.com/lerogo/hl-compiler)   | 设计了一个词法、语法、语义分析器 JAVA |
 | <b>模式识别与大数据分析技术</b>  | [课程作业](https://github.com/lerogo/shareCode/tree/master/njust_homework/patternRecognition)   | K-means、isodata、感知器、PCA等 python |
-| <b>操作系统</b>  | [复习总结]](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)   | 复习笔记，呜呜，感觉考的很差 |
+| <b>操作系统</b>  | [复习总结](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)   | 复习笔记，呜呜，感觉考的很差 |
 | <b>图像处理与分析</b>  | [课程作业](https://github.com/lerogo/shareCode/tree/master/njust_homework/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%88%86%E6%9E%90)   | 图像处理作业 图片的一些操作 数据处理技巧等 c++ |
 
 ## 大三上 ##
