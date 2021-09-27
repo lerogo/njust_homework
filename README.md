@@ -23,6 +23,12 @@
 - 2021-04-23 星期五
 
 ---
+## 大四上 ##
+| 课程名                    | 作业名                              | 描述                                        |
+| ------------------------ | ---------------------------------- | ------------------------------------------ |
+| <b>毕业实习</b>      | [stm32板子实验](https://github.com/lerogo/shareCode/tree/main/njust_homework/%E6%AF%95%E4%B8%9A%E5%AE%9E%E4%B9%A0/stm32%E4%BB%BB%E5%8A%A1)   | stm32板子实验，有led uart os 还有JPEG到bmp |
+| <b>硬件课程设计（Ⅰ）</b>  | [5-stage-pipeline-cpu](https://github.com/lerogo/5-stage-pipeline-cpu)   | 做一个五段流水的CPU |
+
 
 ## 大三下 ##
 | 课程名                    | 作业名                              | 描述                                        |
