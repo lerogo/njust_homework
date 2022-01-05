@@ -26,8 +26,10 @@
 ## 大四上 ##
 | 课程名                    | 作业名                              | 描述                                        |
 | ------------------------ | ---------------------------------- | ------------------------------------------ |
-| <b>毕业实习</b>      | [stm32板子实验](https://github.com/lerogo/shareCode/tree/main/njust_homework/%E6%AF%95%E4%B8%9A%E5%AE%9E%E4%B9%A0/stm32%E4%BB%BB%E5%8A%A1)   | stm32板子实验，有led uart os 还有JPEG到bmp |
+| <b>毕业实习</b>      | [stm32板子实验](https://github.com/lerogo/shareCode/tree/main/njust_homework/%E6%AF%95%E4%B8%9A%E5%AE%9E%E4%B9%A0/stm32%E4%BB%BB%E5%8A%A1)、[第二阶段](https://github.com/lerogo/shareCode/tree/main/njust_homework/%E6%AF%95%E4%B8%9A%E5%AE%9E%E4%B9%A0/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5)   | stm32板子实验，有led uart os 还有JPEG到bmp 、第二阶段的情绪预测（很简单）|
+| <b>软件课程设计（Ⅲ）</b>      | [课程大作业]](https://github.com/lerogo/shareCode/tree/main/njust_homework/%E8%BD%AF%E4%BB%B6%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%EF%BC%88%E2%85%A2%EF%BC%89)   | 编译提供的源代码，自己写模块 |
 | <b>硬件课程设计（Ⅰ）</b>  | [5-stage-pipeline-cpu](https://github.com/lerogo/5-stage-pipeline-cpu)   | 做一个五段流水的CPU |
+| <b>硬件课程设计（Ⅱ）</b>  | [机械臂大作业(选题2)](https://github.com/lerogo/shareCode/tree/main/njust_homework/%E7%A1%AC%E4%BB%B6%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%EF%BC%88%E2%85%A1%EF%BC%89)   | 嵌入式、控制机械臂、老师给其他工程的参考代码 |
 
 
 ## 大三下 ##
